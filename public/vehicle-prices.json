@@ -1,0 +1,387 @@
+[
+  {
+    "make": "Toyota",
+    "model": "Camry",
+    "year": 2023,
+    "versions": [
+      { "name": "LE", "price": 25945 },
+      { "name": "SE", "price": 27485 },
+      { "name": "XLE", "price": 30545 },
+      { "name": "XSE", "price": 31515 },
+      { "name": "TRD", "price": 32360 }
+    ]
+  },
+  {
+    "make": "Toyota",
+    "model": "RAV4",
+    "year": 2023,
+    "versions": [
+      { "name": "LE", "price": 27575 },
+      { "name": "XLE", "price": 29265 },
+      { "name": "XLE Premium", "price": 32455 },
+      { "name": "Adventure", "price": 34450 },
+      { "name": "TRD Off-Road", "price": 37195 }
+    ]
+  },
+  {
+    "make": "Honda",
+    "model": "Civic",
+    "year": 2023,
+    "versions": [
+      { "name": "LX", "price": 22350 },
+      { "name": "Sport", "price": 23750 },
+      { "name": "EX", "price": 25350 },
+      { "name": "Touring", "price": 28950 },
+      { "name": "Si", "price": 27300 }
+    ]
+  },
+  {
+    "make": "Honda",
+    "model": "CR-V",
+    "year": 2023,
+    "versions": [
+      { "name": "LX", "price": 28410 },
+      { "name": "EX", "price": 30900 },
+      { "name": "EX-L", "price": 33500 },
+      { "name": "Touring", "price": 38600 }
+    ]
+  },
+  {
+    "make": "Ford",
+    "model": "F-150",
+    "year": 2023,
+    "versions": [
+      { "name": "XL", "price": 33695 },
+      { "name": "XLT", "price": 40075 },
+      { "name": "Lariat", "price": 57480 },
+      { "name": "King Ranch", "price": 59610 },
+      { "name": "Platinum", "price": 63100 },
+      { "name": "Limited", "price": 80235 }
+    ]
+  },
+  {
+    "make": "Ford",
+    "model": "Mustang",
+    "year": 2023,
+    "versions": [
+      { "name": "EcoBoost Fastback", "price": 27470 },
+      { "name": "EcoBoost Premium Fastback", "price": 32505 },
+      { "name": "GT Fastback", "price": 36495 },
+      { "name": "GT Premium Fastback", "price": 40420 },
+      { "name": "Mach 1", "price": 55270 }
+    ]
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Silverado 1500",
+    "year": 2023,
+    "versions": [
+      { "name": "WT", "price": 35600 },
+      { "name": "Custom", "price": 40500 },
+      { "name": "LT", "price": 46800 },
+      { "name": "RST", "price": 51100 },
+      { "name": "LTZ", "price": 56500 },
+      { "name": "High Country", "price": 62300 }
+    ]
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Equinox",
+    "year": 2023,
+    "versions": [
+      { "name": "LS", "price": 26600 },
+      { "name": "LT", "price": 27900 },
+      { "name": "RS", "price": 31100 },
+      { "name": "Premier", "price": 32600 }
+    ]
+  },
+  {
+    "make": "Tesla",
+    "model": "Model 3",
+    "year": 2023,
+    "versions": [
+      { "name": "Rear-Wheel Drive", "price": 41990 },
+      { "name": "Long Range", "price": 49990 },
+      { "name": "Performance", "price": 53990 }
+    ]
+  },
+  {
+    "make": "Tesla",
+    "model": "Model Y",
+    "year": 2023,
+    "versions": [
+      { "name": "Long Range", "price": 54990 },
+      { "name": "Performance", "price": 58990 }
+    ]
+  },
+  {
+    "make": "BMW",
+    "model": "3 Series",
+    "year": 2023,
+    "versions": [
+      { "name": "330i", "price": 43300 },
+      { "name": "330e", "price": 44900 },
+      { "name": "M340i", "price": 54900 },
+      { "name": "M3", "price": 72800 }
+    ]
+  },
+  {
+    "make": "BMW",
+    "model": "X5",
+    "year": 2023,
+    "versions": [
+      { "name": "sDrive40i", "price": 61600 },
+      { "name": "xDrive40i", "price": 63900 },
+      { "name": "xDrive45e", "price": 65700 },
+      { "name": "M50i", "price": 82800 }
+    ]
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "C-Class",
+    "year": 2023,
+    "versions": [
+      { "name": "C300", "price": 43550 },
+      { "name": "C300 4MATIC", "price": 45550 },
+      { "name": "AMG C 43", "price": 59900 },
+      { "name": "AMG C 63 S", "price": 76000 }
+    ]
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "GLE",
+    "year": 2023,
+    "versions": [
+      { "name": "GLE 350", "price": 56150 },
+      { "name": "GLE 450", "price": 63950 },
+      { "name": "AMG GLE 53", "price": 74150 },
+      { "name": "AMG GLE 63 S", "price": 116000 }
+    ]
+  },
+  {
+    "make": "Audi",
+    "model": "A4",
+    "year": 2023,
+    "versions": [
+      { "name": "Premium", "price": 39900 },
+      { "name": "Premium Plus", "price": 44100 },
+      { "name": "Prestige", "price": 50800 },
+      { "name": "S4 Premium", "price": 52800 }
+    ]
+  },
+  {
+    "make": "Audi",
+    "model": "Q5",
+    "year": 2023,
+    "versions": [
+      { "name": "Premium", "price": 43500 },
+      { "name": "Premium Plus", "price": 48500 },
+      { "name": "Prestige", "price": 54200 },
+      { "name": "SQ5 Premium", "price": 55800 }
+    ]
+  },
+  {
+    "make": "Nissan",
+    "model": "Altima",
+    "year": 2023,
+    "versions": [
+      { "name": "S", "price": 24550 },
+      { "name": "SV", "price": 25950 },
+      { "name": "SR", "price": 27150 },
+      { "name": "SL", "price": 32550 },
+      { "name": "Platinum", "price": 34450 }
+    ]
+  },
+  {
+    "make": "Nissan",
+    "model": "Rogue",
+    "year": 2023,
+    "versions": [
+      { "name": "S", "price": 27360 },
+      { "name": "SV", "price": 29050 },
+      { "name": "SL", "price": 33710 },
+      { "name": "Platinum", "price": 37140 }
+    ]
+  },
+  {
+    "make": "Hyundai",
+    "model": "Elantra",
+    "year": 2023,
+    "versions": [
+      { "name": "SE", "price": 20500 },
+      { "name": "SEL", "price": 21750 },
+      { "name": "Limited", "price": 26350 },
+      { "name": "N Line", "price": 27050 }
+    ]
+  },
+  {
+    "make": "Hyundai",
+    "model": "Tucson",
+    "year": 2023,
+    "versions": [
+      { "name": "SE", "price": 26450 },
+      { "name": "SEL", "price": 28000 },
+      { "name": "N Line", "price": 31950 },
+      { "name": "Limited", "price": 35110 }
+    ]
+  },
+  {
+    "make": "Kia",
+    "model": "Telluride",
+    "year": 2023,
+    "versions": [
+      { "name": "LX", "price": 35690 },
+      { "name": "S", "price": 37590 },
+      { "name": "EX", "price": 41290 },
+      { "name": "SX", "price": 45490 },
+      { "name": "SX Prestige", "price": 49090 }
+    ]
+  },
+  {
+    "make": "Kia",
+    "model": "Sportage",
+    "year": 2023,
+    "versions": [
+      { "name": "LX", "price": 25990 },
+      { "name": "EX", "price": 27990 },
+      { "name": "SX", "price": 31490 },
+      { "name": "X-Pro Prestige", "price": 36790 }
+    ]
+  },
+  {
+    "make": "Volkswagen",
+    "model": "Golf GTI",
+    "year": 2023,
+    "versions": [
+      { "name": "S", "price": 30530 },
+      { "name": "SE", "price": 34070 },
+      { "name": "Autobahn", "price": 38790 }
+    ]
+  },
+  {
+    "make": "Volkswagen",
+    "model": "Tiguan",
+    "year": 2023,
+    "versions": [
+      { "name": "S", "price": 26950 },
+      { "name": "SE", "price": 30180 },
+      { "name": "SE R-Line Black", "price": 32950 },
+      { "name": "SEL R-Line", "price": 37680 }
+    ]
+  },
+  {
+    "make": "Subaru",
+    "model": "Outback",
+    "year": 2023,
+    "versions": [
+      { "name": "Base", "price": 28395 },
+      { "name": "Premium", "price": 30695 },
+      { "name": "Limited", "price": 34495 },
+      { "name": "Touring", "price": 39695 },
+      { "name": "Wilderness", "price": 38445 }
+    ]
+  },
+  {
+    "make": "Subaru",
+    "model": "Forester",
+    "year": 2023,
+    "versions": [
+      { "name": "Base", "price": 25895 },
+      { "name": "Premium", "price": 28895 },
+      { "name": "Sport", "price": 30845 },
+      { "name": "Limited", "price": 32495 },
+      { "name": "Touring", "price": 35795 }
+    ]
+  },
+  {
+    "make": "Mazda",
+    "model": "CX-5",
+    "year": 2023,
+    "versions": [
+      { "name": "S", "price": 26700 },
+      { "name": "Select", "price": 28500 },
+      { "name": "Preferred", "price": 29790 },
+      { "name": "Premium", "price": 32400 },
+      { "name": "Turbo Signature", "price": 39650 }
+    ]
+  },
+  {
+    "make": "Mazda",
+    "model": "Mazda3",
+    "year": 2023,
+    "versions": [
+      { "name": "2.0", "price": 22550 },
+      { "name": "2.5 S", "price": 23950 },
+      { "name": "2.5 S Select", "price": 25350 },
+      { "name": "2.5 Turbo Premium Plus", "price": 34300 }
+    ]
+  },
+  {
+    "make": "Lexus",
+    "model": "RX",
+    "year": 2023,
+    "versions": [
+      { "name": "RX 350", "price": 48550 },
+      { "name": "RX 350h", "price": 50150 },
+      { "name": "RX 350L", "price": 52450 },
+      { "name": "RX 450h+", "price": 58650 },
+      { "name": "RX 500h F SPORT Performance", "price": 62750 }
+    ]
+  },
+  {
+    "make": "Lexus",
+    "model": "ES",
+    "year": 2023,
+    "versions": [
+      { "name": "ES 250", "price": 41875 },
+      { "name": "ES 350", "price": 42490 },
+      { "name": "ES 300h", "price": 43690 },
+      { "name": "ES 350 F Sport", "price": 46575 }
+    ]
+  },
+  {
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "year": 2023,
+    "versions": [
+      { "name": "Laredo", "price": 39000 },
+      { "name": "Limited", "price": 45005 },
+      { "name": "Trailhawk", "price": 54630 },
+      { "name": "Overland", "price": 55500 },
+      { "name": "Summit", "price": 60060 }
+    ]
+  },
+  {
+    "make": "Jeep",
+    "model": "Wrangler",
+    "year": 2023,
+    "versions": [
+      { "name": "Sport", "price": 31195 },
+      { "name": "Willys Sport", "price": 34820 },
+      { "name": "Sport S", "price": 34395 },
+      { "name": "Sahara", "price": 42945 },
+      { "name": "Rubicon", "price": 45195 }
+    ]
+  },
+  {
+    "make": "Volvo",
+    "model": "XC60",
+    "year": 2023,
+    "versions": [
+      { "name": "Core", "price": 43450 },
+      { "name": "Plus", "price": 48750 },
+      { "name": "Ultimate", "price": 54200 },
+      { "name": "Recharge Ultimate", "price": 62050 }
+    ]
+  },
+  {
+    "make": "Volvo",
+    "model": "S60",
+    "year": 2023,
+    "versions": [
+      { "name": "Core", "price": 41300 },
+      { "name": "Plus", "price": 45650 },
+      { "name": "Ultimate", "price": 48800 }
+    ]
+  }
+]

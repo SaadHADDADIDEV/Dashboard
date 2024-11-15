@@ -1,0 +1,130 @@
+.car-price-trend-container {
+  width: 100%;
+  height: 500px;
+  background-color: #ffffff;
+  padding: 16px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.car-price-trend-title {
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: #000000;
+  margin-bottom: 16px;
+}
+
+.select-trigger:focus {
+  outline: none;
+  border-color: #3d2a92;
+}
+
+.select-container {
+  margin-bottom: 16px;
+  display: flex;
+  flex-direction: column;
+}
+
+.select-trigger {
+  width: 280px;
+  margin-bottom: 16px;
+  color: #6c757d;
+}
+
+.ui-select {
+  font-size: 1rem;
+  background-color: #f9f9f9;
+  border-radius: 4px;
+  padding: 8px;
+  border: 1px solid #d1d1d1;
+}
+
+.ui-select:hover {
+  border-color: #3d2a92;
+}
+
+.ui-select:focus {
+  border-color: #3d2a92;
+  box-shadow: 0 0 0 2px rgba(61, 42, 146, 0.2);
+}
+
+.rechart-container {
+  width: 100%;
+  height: 80%;
+  padding-top: 16px;
+}
+
+.rechart-tooltip {
+  background-color: #ffffff;
+  border: 1px solid #d1d1d1;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  padding: 8px;
+  border-radius: 4px;
+}
+
+.rechart-tooltip p {
+  color: #3d2a92;
+}
+
+.rechart-xaxis-label,
+.rechart-yaxis-label {
+  font-size: 14px;
+  color: #000000;
+}
+
+.rechart-legend {
+  font-size: 12px;
+  color: #000000;
+}
+
+.rechart-line {
+  stroke: #3d2a92;
+}
+
+.rechart-line-active-dot {
+  fill: #ff7300;
+}
+
+@media (max-width: 768px) {
+  .car-price-trend-container {
+    padding: 12px;
+    height: auto;
+  }
+
+  .select-trigger {
+    width: 100%;
+    margin-bottom: 12px;
+  }
+
+  .car-price-trend-title {
+    font-size: 1.1rem;
+    margin-bottom: 12px;
+  }
+
+  .select-container {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .rechart-container {
+    height: 300px;
+    padding-top: 8px;
+  }
+
+  .ui-select {
+    font-size: 0.9rem;
+  }
+
+  .rechart-tooltip p {
+    font-size: 0.9rem;
+  }
+
+  .rechart-xaxis-label,
+  .rechart-yaxis-label {
+    font-size: 12px;
+  }
+
+  .rechart-legend {
+    font-size: 10px;
+  }
+}
